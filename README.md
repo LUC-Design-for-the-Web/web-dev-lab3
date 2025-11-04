@@ -1,14 +1,14 @@
 # Directions
 
-Listed below is an image of the completed interface for MPLS Dog Boarding website.  Complete the 12 steps below to achieve the desired design and layout of MPLS Dog boarding homepage.  This lab will focus on CSS Layout Methodologies and will include color, graphics and typography concepts we covered in class. 
+Listed below is an image of the completed interface for MPLS Dog Boarding website.  Complete the 12 steps below to achieve the desired design and layout of MPLS Dog boarding homepage.  This lab will focus on CSS Layout Methodologies and will include color, graphics and typography concepts. 
 
 ![alt text](https://instructorc.github.io/site/home/images/lab_three_interface.png)
 
-Listed below are the  requirements you will need to complete for your individual project. Your project folder will need to  implement a hierarchical folder structure along with coded html documents containing the layout(s) of your site.
+Listed below are the  requirements you will need to complete for this lab. 
 
 ## Steps:
 
-1. Download and unzip the "lab3" project folder
+1. Using git, connect to the remote repository and pull down the contents of repository to your computer. **Hint: Make sure create a folder and initialize git before connecting to repository and pulling contents down**
 2. Open the project folder in your text editor and comment your name at the top the home.html page.
 3. Include the required meta tags discussed in class within the head of your site. The content attributes for each meta tag should be adjusted to reflect site content.
 4. **Implement CSS Grid:** Create a style rule that targets the ```<div id=”container”>``` and add properties that will accomplish the below
@@ -49,8 +49,17 @@ Listed below are the  requirements you will need to complete for your individual
     1. Add a width of 275px;
     2. Center the copyright text by adding margin: auto.
 11. Remove all borders, validate and visual inspect site in browser
-12. Follow the instructions under the Submission and Publishing guidelines. Make sure you publish your site to GitHup pages and visually inspect your work.
+12. Follow the instructions under the Submission and Publishing guidelines. Make sure you publish your site to GitHup pages and visually inspect your work.  Your remote repository must include at minimum of five commits displaying your incremental progress on the lab.
+
 
 ## Submission and Publishing your lab
 
 Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
+
+## Lab Resources
+* My YouTube Playlist the covers Flexbox and CSS Grid - [HTML/CSS Page Layout Strategy using Flexbox and CSS Grid](https://youtube.com/playlist?list=PLvpKGAo_xLN9HhSBx033dXXYndmil61-h&si=ITtQZ4341WYjaDTc)
+* A gaming website that helps you understand CSS Flexbox - [CSS Flexbox Froggy](https://flexboxfroggy.com/)
+* CSSTricks.com Article on CSS Flexbox - [A guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* A gaming website that helps you understand CSS Grid - [Grid Garden](https://cssgridgarden.com/)
+* CSS-Tricks.com Article on CSS Grid - [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
