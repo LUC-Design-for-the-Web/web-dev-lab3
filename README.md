@@ -49,12 +49,12 @@ Listed below are the  requirements you will need to complete for this lab.
     1. Add a width of 275px;
     2. Center the copyright text by adding margin: auto.
 11. Remove all borders, validate and visual inspect site in browser
-12. Follow the instructions under the Submission and Publishing guidelines. Make sure you publish your site to GitHup pages and visually inspect your work.  Your remote repository must include at minimum of five commits displaying your incremental progress on the lab.
+12. Follow the instructions under the Submission and Publishing guidelines. Make sure you publish your site to GitHub pages and visually inspect your work.  Your remote repository must include at minimum of five commits displaying your incremental progress on the lab.
 
 
 ## Submission and Publishing your lab
 
-Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In BrightSpace, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from BrightSpace that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
 
 ## Lab Resources
 * My YouTube Playlist the covers Flexbox and CSS Grid - [HTML/CSS Page Layout Strategy using Flexbox and CSS Grid](https://youtube.com/playlist?list=PLvpKGAo_xLN9HhSBx033dXXYndmil61-h&si=ITtQZ4341WYjaDTc)
